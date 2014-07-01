@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>duplexer</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
     <name>duplexer</name>
     <description>WebJar for duplexer</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/duplexer</url>
         <connection>scm:git:https://github.com/webjars/duplexer.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/duplexer.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>duplexer-0.1.1</tag>
     </scm>
 
     <developers>
